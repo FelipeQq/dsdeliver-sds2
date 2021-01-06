@@ -1,4 +1,4 @@
-import './style.css';
+import './styles.css';
 import { ReactComponent as YouTubeIcon } from './youtube.svg'
 import { ReactComponent as LikedinIcon } from './linkedin.svg'
 import { ReactComponent as InstagramIcon } from './instagram.svg'
