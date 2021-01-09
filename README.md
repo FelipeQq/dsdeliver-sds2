@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://felipequeiroz-sds2.netlify.app/">
-    <img src="https://raw.githubusercontent.com/FelipeQq/assets/logo.svg" height="150" width="175" alt="Logo da DS Delivery" />
+    <img src="https://github.com/FelipeQq/assets/blob/main/logo." height="150" width="175" alt="Logo da DS Delivery" />
   </a>
 </p>
 
