@@ -9,7 +9,7 @@
 
 <p align="center">
  <a href="#-sobre">Sobre</a> •
- <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#tecnologias-utilizadas">Tecnologias</a> • 
  <a href="#-instalação">Instalação</a>
 </p>
 
