@@ -1,4 +1,11 @@
-# dsdeliver-sds2
+<p align="center">
+  <a href="https://felipequeiroz-sds2.netlify.app/">
+    <img src="https://raw.githubusercontent.com/FelipeQq/assets/1c4fef1321bbc09468882c00a5ddfc1162043a31/logo.svg" height="150" width="175" alt="Logo da DS Delivery" />
+  </a>
+</p>
+
+<h1 align="center">DS Delivery</h1>
+<p align="center">Projeto realizado durante a Semana DevSuperior 2.0</p>
 
 
 ## Layout WEB
