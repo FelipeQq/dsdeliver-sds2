@@ -10,14 +10,11 @@
 <p align="center">
  <a href="#-sobre">Sobre</a> •
  <a href="#tecnologias-utilizadas">Tecnologias</a> • 
- <a href="#-instalação">Instalação</a>
+ <a href="#-Execução-do-projeto">Execução do Projeto</a>
 </p>
 
 ## Layout WEB
 ![GIF 1](https://github.com/FelipeQq/assets/blob/main/video.gif)
-![Web 1](https://github.com/FelipeQq/assets/blob/main/Tela1.jpg)
-![Web 2](https://github.com/FelipeQq/assets/blob/main/Tela2.jpg)
-![Web 3](https://github.com/FelipeQq/assets/blob/main/Tela3.jpg)
 
 # Sobre
 
@@ -42,6 +39,44 @@ página que possui as orientações para o cliente, a lista de produtos, um mapa
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
+
+# Execução do Projeto
+
+## Back end
+Pré requisitos: Java 11
+
+```bash
+# clonar repositório
+git clone https://github.com/FelipeQq/dsdeliver-sds2.git
+
+# entrar na pasta do projeto backend
+cd backend
+
+# executar projeto
+.mvnw spring-boot:run
+```
+
+## Front end
+
+```bash
+# clonar repositório
+git clone https://github.com/FelipeQq/dsdeliver-sds2.git
+
+# entrar na pasta do projeto front end
+cd front-web
+
+# instalar dependências
+npm install 
+
+# executar projeto
+npm start
+```
+
+# Autor
+
+Felipe Queiroz
+
+https://www.linkedin.com/in/felipe-queiroz-384b13187/
 
 
 <br>
