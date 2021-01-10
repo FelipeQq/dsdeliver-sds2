@@ -8,9 +8,9 @@
 <p align="center">Projeto realizado durante a Semana DevSuperior 2.0</p>
 
 <p align="center">
- <a href="#-sobre">Sobre</a> •
+ <a href="#sobre">Sobre</a> •
  <a href="#tecnologias-utilizadas">Tecnologias</a> • 
- <a href="#-Execução-do-projeto">Execução do Projeto</a>
+ <a href="#execu%C3%A7%C3%A3o-do-projeto">Execução do Projeto</a>
 </p>
 
 ## Layout WEB
