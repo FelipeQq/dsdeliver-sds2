@@ -13,21 +13,16 @@
  <a href="#execu%C3%A7%C3%A3o-do-projeto">Execução do Projeto</a>
 </p>
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/FelipeQq/dsdeliver-sds2/blob/main/LICENSE)
+
 ## Layout WEB
 ![GIF 1](https://github.com/FelipeQq/assets/blob/main/video.gif)
 
 # Sobre
 
-<p>O DS Delivery tem por objetivo criar um sistema capaz de realizar pedidos em uma pizzaria fictícia. Durante o desenvolvimento foi criada uma 
-API com quatros métodos:</p>
+<p>O DS Delivery é uma aplicação full stack construída durante a 2ª edição da **Semana DevSuperior** (#sds2), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").</p>
 
-- GET /orders: retorna todos os pedidos do sistema de banco de dados que ainda estão pendentes;
-- GET /products: retorna todos os produtos disponíveis para a compra;
-- POST /orders: envia todas as informações do pedido que o cliente fez para o banco de dados;
-- PUT /orders/{id}/delivered: atualiza o status do pedido para entregue.
-
-<p>A landing page é composta por uma frase de efeito, uma imagem e um botão que levará o usuário à tela responsável pelo pedido do cliente, que, por sua vez, é uma
-página que possui as orientações para o cliente, a lista de produtos, um mapa para obter a localização do usuário e o botão para confirmar o pedido.</p>
+<p>A aplicação simula um delivery, onde permite o cliente escolher o produto e inserir o endereço para entrega.</p>
 
 # Tecnologias utilizadas
 
